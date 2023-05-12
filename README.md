@@ -5,7 +5,7 @@
 ## Steps
 
 ```
-flutter channel dev
+flutter channel stable
 
 flutter upgrade
 
@@ -15,7 +15,12 @@ flutter create unicornapp --org app.unicornapp
 
 cd unicornapp
 
+flutter clean
+
 flutter run -d macos
+
+flutter run -d macos -t lib/macos_main.dart
+
 ```
 
 
