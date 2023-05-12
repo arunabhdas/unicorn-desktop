@@ -5,7 +5,17 @@
 ## Steps
 
 ```
+flutter channel dev
+
+flutter upgrade
+
+flutter config --enable-macos-desktop
+
 flutter create unicornapp --org app.unicornapp
+
+cd unicornapp
+
+flutter run -d macos
 ```
 
 
