@@ -1,6 +1,6 @@
 # UnicornApp 
 
-* UnicornApp for macOS (using Flutter)
+* UnicornApp for macOS
 
 ## Steps
 
