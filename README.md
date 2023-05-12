@@ -48,8 +48,10 @@ dev_dependencies:
 ```
 
 ### Run flutter pub run
-* Run flutter pub run
+* Run dart run
 
 ```
-flutter pub run
+flutter pub get
+
+dart run
 ```
